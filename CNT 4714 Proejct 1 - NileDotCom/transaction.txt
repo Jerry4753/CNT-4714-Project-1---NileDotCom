@@ -1,0 +1,23 @@
+230120222153, 14, "Stanley #2 Philips Screwdriver", 6.95, 1, 0.0, $6.95, 1/23/22, 9:53:03 PM EST
+230120222153, 3451, "Oakley Jawbreaker sunglasses", 236.0, 2, 0.0, $472.00, 1/23/22, 9:53:03 PM EST
+230120222155, 14, "Stanley #2 Philips Screwdriver", 6.95, 10, 0.15, $59.07, 1/23/22, 9:55:06 PM EST
+230120222155, 14, "Stanley #2 Philips Screwdriver", 6.95, 10, 0.15, $59.07, 1/23/22, 9:55:55 PM EST
+240120221919, 89476, "Assos T-Evo shorts", 299.95, 2, 0.0, $599.90, 1/24/22, 7:19:15 PM EST
+240120222138, 14, "Stanley #2 Philips Screwdriver", 6.95, 1, 0.0, $6.95, 1/24/22, 9:38:46 PM EST
+240120222138, 3451, "Oakley Jawbreaker sunglasses", 236.0, 2, 0.0, $472.00, 1/24/22, 9:38:46 PM EST
+250120220019, 14, "Stanley #2 Philips Screwdriver", 6.95, 20, 0.2, $111.20, 1/25/22, 12:19:19 AM EST
+250120220021, 14, "Stanley #2 Philips Screwdriver", 6.95, 10, 0.15, $59.07, 1/25/22, 12:21:12 AM EST
+250120221347, 23, "Tamiya 2oz paint - ferrari red", 2.39, 2, 0.0, $4.78, 1/25/22, 1:47:25 PM EST
+250120221347, 67913, "Gios Torino t-shirt size XXL", 25.0, 1, 0.0, $25.00, 1/25/22, 1:47:25 PM EST
+250120221347, 582913, "Look Keo 2 Max pedals", 135.0, 1, 0.0, $135.00, 1/25/22, 1:47:25 PM EST
+250120221347, 4762, "HP copy paper ultra white - ream", 13.5, 15, 0.2, $162.00, 1/25/22, 1:47:25 PM EST
+250120221348, 97634, "Campagnolo 12 spd crankset - 53/39 175mm", 750.0, 25, 0.2, $15,000.00, 1/25/22, 1:48:39 PM EST
+250120221349, 14, "Stanley #2 Philips Screwdriver", 6.95, 10, 0.15, $59.07, 1/25/22, 1:49:33 PM EST
+250120221350, 387, "Brachs butterscotch hard candy - 1 lb", 4.5, 1, 0.0, $4.50, 1/25/22, 1:50:32 PM EST
+250120221350, 38712987, "Wilson NCAA official softball - 1 ea", 5.5, 25, 0.2, $110.00, 1/25/22, 1:50:32 PM EST
+250120221351, 14, "Stanley #2 Philips Screwdriver", 6.95, 10, 0.15, $59.07, 1/25/22, 1:51:18 PM EST
+250120221356, 387, "Brachs butterscotch hard candy - 1 lb", 4.5, 10, 0.15, $38.25, 1/25/22, 1:56:48 PM EST
+250120221357, 38712987, "Wilson NCAA official softball - 1 ea", 5.5, 1, 0.0, $5.50, 1/25/22, 1:57:10 PM EST
+250120221414, 14, "Stanley #2 Philips Screwdriver", 6.95, 1, 0.0, $6.95, 1/25/22, 2:14:12 PM EST
+250120221414, 3451, "Oakley Jawbreaker sunglasses", 236.0, 2, 0.0, $472.00, 1/25/22, 2:14:12 PM EST
+250120221414, 387, "Brachs butterscotch hard candy - 1 lb", 4.5, 10, 0.15, $38.25, 1/25/22, 2:14:12 PM EST
